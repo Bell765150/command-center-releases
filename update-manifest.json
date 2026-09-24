@@ -1,9 +1,9 @@
 {
   "product": "Command Center",
   "channel": "stable",
-  "version": "3.5",
+  "version": "3.5.1",
   "status": "bootstrap",
-  "installer_url": null,
+  "installerUrl": null,
   "sha256": null,
-  "release_notes": "Public update channel initialized. Command Center v3.5.1 will activate this channel."
+  "releaseNotes": "Command Center v3.5.1 activates the official public update channel. No newer update is currently available."
 }
