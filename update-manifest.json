@@ -1,9 +1,9 @@
 {
   "product": "Command Center",
   "channel": "stable",
-  "version": "3.5.2",
+  "version": "3.6.0",
   "status": "released",
-  "installerUrl": "https://github.com/Bell765150/command-center-releases/releases/download/v3.5.2/Command-Center-Setup-v3.5.2.exe",
-  "sha256": "fbc84faa215d724c1bb1397f7f0c167e86ce9fdd7e44e1c7d8a4bf4fd22f5347",
-  "releaseNotes": "Command Center v3.5.2 validates the complete updater pipeline: update discovery, installer download, SHA-256 integrity verification, and in-place upgrade."
+  "installerUrl": "https://github.com/Bell765150/command-center-releases/releases/download/v3.6.0/Command-Center-Setup-v3.6.0.exe",
+  "sha256": "727a2bb2b0213293b58b6ef73a02233a4ba95f04b7a9ca55709d839c97a917d0",
+  "releaseNotes": "Command Center v3.6.0 introduces Financial Command Intelligence with a prioritized Command Brief, Payday Decision Intelligence, Safe-to-Spend analysis, truly discretionary cash guidance, alternative-use decision support, a streamlined intelligence-first Dashboard, and an updated Financial Health model."
 }
