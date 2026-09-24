@@ -1,9 +1,9 @@
 {
   "product": "Command Center",
   "channel": "stable",
-  "version": "3.5.1",
+  "version": "3.5.2",
   "status": "released",
-  "installerUrl": "https://github.com/Bell765150/command-center-releases/releases/download/v3.5.1/Command-Center-Setup-v3.5.1.exe",
-  "sha256": "94c619a57703606bb6e258fbb43de0669c3c8c7b9260d5fe4ec2d80880258ce5",
-  "releaseNotes": "Command Center v3.5.1 activates the official public update channel with SHA-256 verified installer delivery."
+  "installerUrl": "https://github.com/Bell765150/command-center-releases/releases/download/v3.5.2/Command-Center-Setup-v3.5.2.exe",
+  "sha256": "fbc84faa215d724c1bb1397f7f0c167e86ce9fdd7e44e1c7d8a4bf4fd22f5347",
+  "releaseNotes": "Command Center v3.5.2 validates the complete updater pipeline: update discovery, installer download, SHA-256 integrity verification, and in-place upgrade."
 }
