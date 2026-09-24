@@ -2,8 +2,8 @@
   "product": "Command Center",
   "channel": "stable",
   "version": "3.5.1",
-  "status": "bootstrap",
-  "installerUrl": null,
-  "sha256": null,
-  "releaseNotes": "Command Center v3.5.1 activates the official public update channel. No newer update is currently available."
+  "status": "released",
+  "installerUrl": "https://github.com/Bell765150/command-center-releases/releases/download/v3.5.1/Command-Center-Setup-v3.5.1.exe",
+  "sha256": "94c619a57703606bb6e258fbb43de0669c3c8c7b9260d5fe4ec2d80880258ce5",
+  "releaseNotes": "Command Center v3.5.1 activates the official public update channel with SHA-256 verified installer delivery."
 }
